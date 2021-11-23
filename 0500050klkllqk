@@ -1,7 +1,7 @@
 local module = {}
 
 module.Whitelisted = {
-	[''] = '',
+	['2464054789'] = 'voicechatisepic',
     [''] = '',
 	[''] = '',
     [''] = '',
